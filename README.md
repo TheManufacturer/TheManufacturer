@@ -8,8 +8,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=TheManufacturer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=TheManufacturer&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheManufacturer&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="85" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheManufacturer&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheManufacturer&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="89" alt="languages graph"  />
 </div>
 
 ###
