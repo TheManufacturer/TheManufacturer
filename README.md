@@ -44,7 +44,3 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheManufacturer.TheManufacturer&left_color=black"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/TheManufacturer/output/snake.svg" alt="Snake animation" />
-
-###
